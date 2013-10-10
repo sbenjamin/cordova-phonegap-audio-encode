@@ -10,7 +10,7 @@
 <author>Tushar Kanvinde</author>
 <keywords>iOS audio recording encoding</keywords>
 <license>MIT</license>
-<asset src="www/audioencode.js" target="audioencode.js" />
+<asset src="audioencode.js" target="audioencode.js" />
 <platform name="ios">
 
         <config-file target="config.xml" parent="/*">
@@ -18,8 +18,8 @@
                         <param name="ios-package" value="AudioEncode"/>
                 </feature>
         </config-file>
-        <source-file src="src/ios/AudioEncode.m" />
-        <header-file src="src/ios/AudioEncode.m" />
+        <source-file src="AudioEncode.m" />
+        <header-file src="AudioEncode.h" />
 
 </platform>
 </plugin>
