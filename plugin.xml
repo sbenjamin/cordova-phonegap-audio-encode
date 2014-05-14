@@ -7,7 +7,7 @@
 </engines>        
 <name>AudioEncode</name>
 <description>Plugin for iOS to encode wav to amr</description>
-<author>Tushar Kanvinde</author>
+<author>Shawn Rehill</author>
 <keywords>iOS audio recording encoding</keywords>
 <license>MIT</license>
 <asset src="audioencode.js" target="audioencode.js" />
