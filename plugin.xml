@@ -3,7 +3,7 @@
         id="mobi.autarky.audioEncode"
         version="1.0.0">
 <engines>
-    <engine name="cordova" version="2.9.0" />
+    <engine name="cordova" version="3.3.0" />
 </engines>        
 <name>AudioEncode</name>
 <description>Plugin for iOS to encode wav to amr</description>
