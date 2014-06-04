@@ -3,7 +3,7 @@
         id="com.factionfour.audioEncode"
         version="1.0.0">
 <engines>
-    <engine name="cordova" />
+    <engine name="cordova" version="3.4.1" />
 </engines>        
 <name>AudioEncode</name>
 <description>Plugin for iOS to encode wav to amr</description>
